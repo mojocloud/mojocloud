@@ -1,0 +1,23 @@
+{
+  "name": "mojocloud",
+  "version": "0.0.1",
+  "description": "cli tool fir mojocloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "npmts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojocloud/mojocloud.git"
+  },
+  "keywords": [
+    "static",
+    "hosting"
+  ],
+  "author": "Lossless Digital UG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mojocloud/mojocloud/issues"
+  },
+  "homepage": "https://github.com/mojocloud/mojocloud#readme"
+}
